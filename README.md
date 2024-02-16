@@ -1,2 +1,2 @@
 # charter
-a repo showing past work projects
+A repo showing diagams and sample of past work projects
